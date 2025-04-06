@@ -1,10 +1,10 @@
 # Igor Mariano Pirola
 
-**`Desenvolvedor FullStack`**
+**`FullStack Developer`**
 
 ---
 
-### Linguagens e Tecnologias
+### Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -91,7 +91,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
