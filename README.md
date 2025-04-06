@@ -2,6 +2,8 @@
 
 **`FullStack Developer`**
 
+I have a strong background in hardware maintenance and a passion for programming — especially native applications.
+
 ---
 
 ### Languages ​​and Technologies
