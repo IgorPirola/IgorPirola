@@ -108,7 +108,7 @@ I have a strong background in hardware maintenance and a passion for programming
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/](https://github-stats-extended.vercel.app/api/top-langs/?username=IgorPirola&theme=tokyonight&layout=compact&langs_count=8" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=IgorPirola&theme=tokyonight&layout=compact&langs_count=8" 
   />
 
 </p>
