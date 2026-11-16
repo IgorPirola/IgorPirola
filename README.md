@@ -101,14 +101,14 @@ I have a strong background in hardware maintenance and a passion for programming
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=IgorPirola&show_icons=true&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api?username=IgorPirola&show_icons=true&theme=tokyonight"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPirola&theme=tokyonight&layout=compact&langs_count=8" 
+      src="https://github-readme-stats.vercel.app/](https://github-stats-extended.vercel.app/api/top-langs/?username=IgorPirola&theme=tokyonight&layout=compact&langs_count=8" 
   />
 
 </p>
